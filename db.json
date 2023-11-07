@@ -1,0 +1,309 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "employees": [
+    {
+      "firstName": "shakir",
+      "lastName": "ahamed",
+      "email": "sha222@gmail.com",
+      "dob": "2002-02-11T18:30:00.000Z",
+      "gender": "Male",
+      "education": "Diploma",
+      "company": "bgi",
+      "experience": 10,
+      "package": 12,
+      "id": 1
+    },
+    {
+      "id": 1,
+      "firstName": "John",
+      "lastName": "Doe",
+      "email": "john.doe@example.com",
+      "dob": "1990-05-15",
+      "gender": "Male",
+      "education": "Bachelor's Degree",
+      "company": "ABC Inc.",
+      "experience": 5,
+      "package": 60000
+    },
+    {
+      "id": 2,
+      "firstName": "Jane",
+      "lastName": "Smith",
+      "email": "jane.smith@example.com",
+      "dob": "1988-08-20",
+      "gender": "Female",
+      "education": "Master's Degree",
+      "company": "XYZ Corporation",
+      "experience": 8,
+      "package": 80000
+    },
+    {
+      "id": 3,
+      "firstName": "Robert",
+      "lastName": "Johnson",
+      "email": "robert.johnson@example.com",
+      "dob": "1995-03-10",
+      "gender": "Male",
+      "education": "High School",
+      "company": "123 Ltd.",
+      "experience": 3,
+      "package": 45000
+    },
+    {
+      "id": 4,
+      "firstName": "Emily",
+      "lastName": "Davis",
+      "email": "emily.davis@example.com",
+      "dob": "1992-11-25",
+      "gender": "Female",
+      "education": "Bachelor's Degree",
+      "company": "Tech Solutions",
+      "experience": 7,
+      "package": 72000
+    },
+    {
+      "id": 5,
+      "firstName": "Michael",
+      "lastName": "Wilson",
+      "email": "michael.wilson@example.com",
+      "dob": "1985-06-12",
+      "gender": "Male",
+      "education": "Master's Degree",
+      "company": "Global Corp",
+      "experience": 10,
+      "package": 90000
+    },
+    {
+      "id": 6,
+      "firstName": "Sara",
+      "lastName": "Lee",
+      "email": "sara.lee@example.com",
+      "dob": "1987-03-18",
+      "gender": "Female",
+      "education": "Ph.D.",
+      "company": "Innovate Tech",
+      "experience": 12,
+      "package": 105000
+    },
+    {
+      "id": 7,
+      "firstName": "James",
+      "lastName": "Anderson",
+      "email": "james.anderson@example.com",
+      "dob": "1991-04-02",
+      "gender": "Male",
+      "education": "Bachelor's Degree",
+      "company": "Info Systems",
+      "experience": 6,
+      "package": 68000
+    },
+    {
+      "id": 8,
+      "firstName": "Laura",
+      "lastName": "Brown",
+      "email": "laura.brown@example.com",
+      "dob": "1993-09-30",
+      "gender": "Female",
+      "education": "Master's Degree",
+      "company": "Data Services",
+      "experience": 9,
+      "package": 80000
+    },
+    {
+      "id": 9,
+      "firstName": "William",
+      "lastName": "Johnson",
+      "email": "william.johnson@example.com",
+      "dob": "1986-07-14",
+      "gender": "Male",
+      "education": "Bachelor's Degree",
+      "company": "Tech Innovations",
+      "experience": 7,
+      "package": 72000
+    },
+    {
+      "id": 10,
+      "firstName": "Olivia",
+      "lastName": "Wilson",
+      "email": "olivia.wilson@example.com",
+      "dob": "1989-02-19",
+      "gender": "Female",
+      "education": "Master's Degree",
+      "company": "Global Corp",
+      "experience": 11,
+      "package": 95000
+    },
+    {
+      "id": 11,
+      "firstName": "Daniel",
+      "lastName": "Smith",
+      "email": "daniel.smith@example.com",
+      "dob": "1994-12-05",
+      "gender": "Male",
+      "education": "Bachelor's Degree",
+      "company": "Data Systems",
+      "experience": 4,
+      "package": 55000
+    },
+    {
+      "id": 12,
+      "firstName": "Ava",
+      "lastName": "Miller",
+      "email": "ava.miller@example.com",
+      "dob": "1993-07-28",
+      "gender": "Female",
+      "education": "Master's Degree",
+      "company": "Innovate Tech",
+      "experience": 8,
+      "package": 80000
+    },
+    {
+      "id": 13,
+      "firstName": "Christopher",
+      "lastName": "Davis",
+      "email": "christopher.davis@example.com",
+      "dob": "1985-10-17",
+      "gender": "Male",
+      "education": "High School",
+      "company": "Tech Solutions",
+      "experience": 10,
+      "package": 90000
+    },
+    {
+      "id": 14,
+      "firstName": "Mia",
+      "lastName": "Johnson",
+      "email": "mia.johnson@example.com",
+      "dob": "1996-04-23",
+      "gender": "Female",
+      "education": "Bachelor's Degree",
+      "company": "Info Systems",
+      "experience": 5,
+      "package": 60000
+    },
+    {
+      "id": 15,
+      "firstName": "David",
+      "lastName": "Brown",
+      "email": "david.brown@example.com",
+      "dob": "1992-03-08",
+      "gender": "Male",
+      "education": "Master's Degree",
+      "company": "Data Services",
+      "experience": 9,
+      "package": 80000
+    },
+    {
+      "id": 16,
+      "firstName": "Sophia",
+      "lastName": "Clark",
+      "email": "sophia.clark@example.com",
+      "dob": "1990-09-12",
+      "gender": "Female",
+      "education": "Bachelor's Degree",
+      "company": "Tech Innovations",
+      "experience": 6,
+      "package": 68000
+    },
+    {
+      "id": 17,
+      "firstName": "Ethan",
+      "lastName": "Anderson",
+      "email": "ethan.anderson@example.com",
+      "dob": "1987-11-27",
+      "gender": "Male",
+      "education": "Master's Degree",
+      "company": "Global Corp",
+      "experience": 12,
+      "package": 105000
+    },
+    {
+      "id": 18,
+      "firstName": "Olivia",
+      "lastName": "Thomas",
+      "email": "olivia.thomas@example.com",
+      "dob": "1986-08-06",
+      "gender": "Female",
+      "education": "Bachelor's Degree",
+      "company": "Innovate Tech",
+      "experience": 7,
+      "package": 72000
+    },
+    {
+      "id": 19,
+      "firstName": "Matthew",
+      "lastName": "White",
+      "email": "matthew.white@example.com",
+      "dob": "1995-01-03",
+      "gender": "Male",
+      "education": "Master's Degree",
+      "company": "Info Systems",
+      "experience": 10,
+      "package": 90000
+    },
+    {
+      "id": 20,
+      "firstName": "Ava",
+      "lastName": "Harris",
+      "email": "ava.harris@example.com",
+      "dob": "1991-06-25",
+      "gender": "Female",
+      "education": "Ph.D.",
+      "company": "Tech Solutions",
+      "experience": 11,
+      "package": 95000
+    },
+    {
+      "firstName": "hello ",
+      "lastName": "hiii",
+      "email": "hello@gmailcom",
+      "dob": "2023-11-06T18:30:00.000Z",
+      "gender": "Male",
+      "education": "Under Graduate",
+      "company": "abc",
+      "experience": 12,
+      "package": 22,
+      "id": 22
+    },
+    {
+      "firstName": "gopika",
+      "lastName": "b",
+      "email": "hello@gmailcom",
+      "dob": "1971-10-11T18:30:00.000Z",
+      "gender": "Male",
+      "education": "10th",
+      "company": "abc",
+      "experience": 1,
+      "package": 1,
+      "id": 24
+    },
+    {
+      "firstName": "monika",
+      "lastName": "",
+      "email": "monika123@gmail.com",
+      "dob": "2023-11-05T18:30:00.000Z",
+      "gender": "Female",
+      "education": "Post Graduate",
+      "company": "bgi",
+      "experience": 9,
+      "package": 14,
+      "id": 25
+    }
+  ]
+}
